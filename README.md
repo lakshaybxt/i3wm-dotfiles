@@ -9,9 +9,9 @@ Personal i3wm setup on EndeavourOS.
 - Wallpapers
 
 ## Screenshot
-![Image 1: ](screenshots/image-1)
-![Image 2: ](screenshots/image-2)
-![Image 3: ](screenshots/image-3)
+![Image 1: ](screenshots/image-1.png)
+![Image 2: ](screenshots/image-2.png)
+![Image 3: ](screenshots/image-3.png)
 
 ## Notes
 - Tested on EndeavourOS + i3
